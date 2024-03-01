@@ -1,0 +1,21 @@
+{
+  "name": "@evanwinter/cn",
+  "version": "1.0.0",
+  "description": "Utility function for merging Tailwind class names as popularized by `@shadcn/ui`.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "author": "evanwinter",
+  "license": "ISC",
+  "dependencies": {
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  }
+}
