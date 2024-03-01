@@ -1,6 +1,6 @@
 {
   "name": "@evanwinter/cn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility function for merging Tailwind class names as popularized by `@shadcn/ui`.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
