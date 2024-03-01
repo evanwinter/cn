@@ -1,6 +1,6 @@
 # @evanwinter/cn
 
-Utility function for merging Tailwind class names as popularized by @shadcn/ui.
+Utility function for merging Tailwind class names as popularized by [@shadcn/ui]('https://ui.shadcn.com/').
 
 ### Installation
 
